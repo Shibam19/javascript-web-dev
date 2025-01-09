@@ -1,10 +1,8 @@
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
 let accountPassword = "12345"
-accountCity = "Jaipur"
-let accountState;
-
-// accountId = 2 // not allowed
+let accountCity = "Jaipur"
+let accountState;//undefined
 
 
 accountEmail = "hc@hc.com"
